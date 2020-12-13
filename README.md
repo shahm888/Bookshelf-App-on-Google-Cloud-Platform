@@ -9,6 +9,9 @@ Develop Bookshelf app in Python & package that application into container image.
  ![image](https://user-images.githubusercontent.com/46588361/102004233-b3eee800-3cc3-11eb-850d-6fa626482e24.png)
  ## Step 4:
  ![image](https://user-images.githubusercontent.com/46588361/102004256-e26cc300-3cc3-11eb-8fc1-ea0152e71994.png)
+ ## Step 5:
+ ![image](https://user-images.githubusercontent.com/46588361/102004281-17791580-3cc4-11eb-9853-faa42bb3b4e1.png)
+
 
 
 
